@@ -1,0 +1,233 @@
+{
+  "invoice": 84,
+  "dates": "11.01 – 10.03",
+  "recipient": "Alexandrov Yury Valentinovitch 11, boulevard Albert 1er, 98000 Monaco",
+  "invoiceData": "27.06.2022",
+  "dueDate": "15.07.2022",
+  "payments": [
+    {
+      "date": "25.02",
+      "class": "Chemistry",
+      "student": "Alex",
+      "hours": "1,50",
+      "fee": 180
+    },
+    {
+      "date": "25.02",
+      "class": "Chemistry",
+      "student": "Alex",
+      "hours": "1,50",
+      "fee": 180
+    },
+    {
+      "date": "25.02",
+      "class": "Chemistry",
+      "student": "Alex",
+      "hours": "1,50",
+      "fee": 180
+    },
+    {
+      "date": "25.02",
+      "class": "Chemistry",
+      "student": "Alex",
+      "hours": "1,50",
+      "fee": 180
+    },
+    {
+      "date": "25.02",
+      "class": "Chemistry",
+      "student": "Alex",
+      "hours": "1,50",
+      "fee": 180
+    },
+    {
+      "date": "25.02",
+      "class": "Chemistry",
+      "student": "Alex",
+      "hours": "1,50",
+      "fee": 180
+    },
+    {
+      "date": "25.02",
+      "class": "Chemistry",
+      "student": "Alex",
+      "hours": "1,50",
+      "fee": 180
+    },
+    {
+      "date": "25.02",
+      "class": "Chemistry",
+      "student": "Alex",
+      "hours": "1,50",
+      "fee": 180
+    },
+    {
+      "date": "25.02",
+      "class": "Chemistry",
+      "student": "Alex",
+      "hours": "1,50",
+      "fee": 180
+    },
+    {
+      "date": "25.02",
+      "class": "Chemistry",
+      "student": "Alex",
+      "hours": "1,50",
+      "fee": 180
+    },
+    {
+      "date": "25.02",
+      "class": "Chemistry",
+      "student": "Alex",
+      "hours": "1,50",
+      "fee": 180
+    },
+    {
+      "date": "25.02",
+      "class": "Chemistry",
+      "student": "Alex",
+      "hours": "1,50",
+      "fee": 180
+    },
+    {
+      "date": "25.02",
+      "class": "Chemistry",
+      "student": "Alex",
+      "hours": "1,50",
+      "fee": 180
+    },
+    {
+      "date": "25.02",
+      "class": "Chemistry",
+      "student": "Alex",
+      "hours": "1,50",
+      "fee": 180
+    },
+    {
+      "date": "25.02",
+      "class": "Chemistry",
+      "student": "Alex",
+      "hours": "1,50",
+      "fee": 180
+    },
+    {
+      "date": "25.02",
+      "class": "Chemistry",
+      "student": "Alex",
+      "hours": "1,50",
+      "fee": 180
+    },
+    {
+      "date": "25.02",
+      "class": "Chemistry",
+      "student": "Alex",
+      "hours": "1,50",
+      "fee": 180
+    },
+    {
+      "date": "25.02",
+      "class": "Chemistry",
+      "student": "Alex",
+      "hours": "1,50",
+      "fee": 180
+    },
+    {
+      "date": "25.02",
+      "class": "Chemistry",
+      "student": "Alex",
+      "hours": "1,50",
+      "fee": 180
+    },
+    {
+      "date": "25.02",
+      "class": "Chemistry",
+      "student": "Alex",
+      "hours": "1,50",
+      "fee": 180
+    },
+    {
+      "date": "25.02",
+      "class": "Chemistry",
+      "student": "Alex",
+      "hours": "1,50",
+      "fee": 180
+    },
+    {
+      "date": "25.02",
+      "class": "Chemistry",
+      "student": "Alex",
+      "hours": "1,50",
+      "fee": 180
+    },
+    {
+      "date": "25.02",
+      "class": "Chemistry",
+      "student": "Alex",
+      "hours": "1,50",
+      "fee": 180
+    },
+    {
+      "date": "25.02",
+      "class": "Chemistry",
+      "student": "Alex",
+      "hours": "1,50",
+      "fee": 180
+    },
+    {
+      "date": "25.02",
+      "class": "Chemistry",
+      "student": "Alex",
+      "hours": "1,50",
+      "fee": 180
+    },
+    {
+      "date": "25.02",
+      "class": "Chemistry",
+      "student": "Alex",
+      "hours": "1,50",
+      "fee": 180
+    },
+    {
+      "date": "25.02",
+      "class": "Chemistry",
+      "student": "Alex",
+      "hours": "1,50",
+      "fee": 180
+    },
+    {
+      "date": "25.02",
+      "class": "Chemistry",
+      "student": "Alex",
+      "hours": "1,50",
+      "fee": 180
+    },
+    {
+      "date": "25.02",
+      "class": "Chemistry",
+      "student": "Alex",
+      "hours": "1,50",
+      "fee": 180
+    },
+    {
+      "date": "25.02",
+      "class": "Chemistry",
+      "student": "Alex",
+      "hours": "1,50",
+      "fee": 180
+    }
+  ],
+  "allHours": 100,
+  "allFee": 180,
+  "intermediary": {
+    "bankName": "Citibank N.A.",
+    "bankLocation": "NEW YORK, NY, USA",
+    "swift": "CITIUS33"
+  },
+  "beneficiary": {
+    "bankName": "Gazprombank (Joint - stock Company)",
+    "bankLocation": "MOSCOW, RUSSIA",
+    "swift": "GAZPRUMM",
+    "accountId": "40817840100200011477",
+    "beneficiaryName": "TARATUTA ALEKSANDR SERGEEVICH"
+  }
+}
