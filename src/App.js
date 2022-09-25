@@ -6,6 +6,9 @@ import Header from './components/Header';
 import Table from './components/Table';
 import Payments from './components/Payments';
 import Footer from './components/Footer';
+import './assets/arial-normal';
+import './assets/arial-italic';
+import './assets/arial-bold';
 
 import data from './data.json';
 

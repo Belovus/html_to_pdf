@@ -6,7 +6,7 @@ function Payments({ intermediary, beneficiary }) {
   return (
     <div className="Payments">
       <div className="Payments__header">
-        <h3>Payment confirms the provision of services</h3>
+        <div className="Payments__header__text">Payment confirms the provision of services</div>
       </div>
       <div className="Payments__underHeader">
         <h5>Payment information</h5>
